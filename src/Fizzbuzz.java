@@ -3,6 +3,7 @@ public class Fizzbuzz {
 
         for (int i = 1; i <= 100; i++) {
             System.out.println(getFizzbuzz(i));
+            System.out.println("this is the change for git");
 
 
         }
